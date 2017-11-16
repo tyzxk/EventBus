@@ -231,6 +231,7 @@ private:
 int main()
 {
 	printf("* * * EventBus Demo Program * * * \n");
+	printf("* * *\n");
 
 	try
 	{
